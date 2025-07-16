@@ -144,7 +144,7 @@ See [`LICENSE`](LICENSE) for full terms.
 
 Made with ❤️ by **Al Faruk Md Omor Sajeeb**  
 📧 [youremail@example.com](mailto:youremail@example.com)  
-🔗 [GitHub](https://github.com/yourusername)
+🔗 [GitHub](https://github.com/alfagen10)
 
 ---
 
