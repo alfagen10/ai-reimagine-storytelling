@@ -1,0 +1,26 @@
+# ✅ Required Python packages for AI Reimagine Storytelling
+# Install with: pip install -r requirements.txt
+
+# 🖥️ Streamlit for web app UI
+streamlit>=1.30.0
+
+# 🌐 For API requests (e.g., DeepAI)
+requests>=2.31.0
+
+# 🧾 Export story to PDF
+fpdf>=1.7.2
+
+# 🔊 Google Text-to-Speech for narration
+gTTS>=2.3.2
+
+# 🧠 Local model client (requires Ollama installed separately)
+ollama>=0.1.6
+
+# 🖼️ Generate QR codes for sharing
+qrcode>=7.4.2
+
+# 🎧 Manipulate and speed up audio (requires ffmpeg installed separately)
+pydub>=0.25.1
+
+# 🎙️ Voice input (optional; may require portaudio installed separately)
+SpeechRecognition>=3.10.1
