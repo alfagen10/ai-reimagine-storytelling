@@ -1,6 +1,6 @@
 # 📚 AI Reimagine Storytelling
 
-An AI-powered web app to generate illustrated children’s stories with live narration, multilingual support, PDF export, and QR sharing — all from one screen.
+An AI-powered web app to generate illustrated stories for children with live narration, multilingual support, PDF export, and QR sharing — all from one screen.
 
 ---
 
@@ -8,15 +8,28 @@ An AI-powered web app to generate illustrated children’s stories with live nar
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- 🧠 Generate children's stories with LLM (via Ollama)
-- 🎙️ Use microphone input to speak character/genre/theme
-- 🎨 Scene-based illustrations using DeepAI API
-- 🔊 Narrate stories using Google Text-to-Speech in multiple languages
-- 📄 Export full story to PDF
-- 📲 Share with QR Code
-- 🌗 Beautiful UI with Dark/Light Mode and background
+- 🧠 AI-Powered Story Generation
+- Craft unique, multi-scene stories using large language models (LLMs) powered by Ollama.
+
+- 🎙️ Voice Input for Creativity
+- Use your microphone to speak your character, genre, theme, or illustration style — no typing needed!
+
+- 🎨 Scene-by-Scene Illustrations
+- Generate beautiful AI images for each scene using the DeepAI Text-to-Image API (optional).
+
+- 🔊 Multilingual Voice Narration
+- Stories are narrated using Google Text-to-Speech (gTTS) with support for multiple languages and voice speed options.
+
+- 📄 PDF Export
+- Convert your entire illustrated story into a print-ready PDF, complete with custom fonts and layout.
+
+- 📲 QR Code Sharing
+- Share your story via an auto-generated QR code that links to the downloadable version or cloud copy.
+
+- 🌗 Responsive, Themed Interface
+- Enjoy a clean UI with Light/Dark mode toggle, background image support, and styled inputs for better usability.
 
 ---
 
@@ -35,7 +48,7 @@ Make sure these are installed:
 ### 🪜 B. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-reimagine-storytelling.git
+git clone https://github.com/alfagen10/ai-reimagine-storytelling.git
 cd ai-reimagine-storytelling
 ```
 
@@ -135,16 +148,17 @@ ai-reimagine-storytelling/
 
 ## 📄 License
 
-Licensed under the **Apache License 2.0** — Free for commercial or personal use.  
-See [`LICENSE`](LICENSE) for full terms.
+Licensed under the **MIT License** — free for personal and commercial use.
+See the LICENSE file for full terms.
 
 ---
 
 ## 👨‍🎨 Author
 
 Made with ❤️ by **Al Faruk Md Omor Sajeeb**  
-📧 [youremail@example.com](mailto:youremail@example.com)  
-🔗 [GitHub](https://github.com/alfagen10)
+📧 Email: alfarukmd78@gmail.com
+🔗 GitHub: https://github.com/alfagen10
+
 
 ---
 
