@@ -11,25 +11,25 @@ An AI-powered web app to generate illustrated stories for children with live nar
 ## ✨ Key Features
 
 - 🧠 AI-Powered Story Generation
-- Craft unique, multi-scene stories using large language models (LLMs) powered by Ollama.
+ Craft unique, multi-scene stories using large language models (LLMs) powered by Ollama.
 
 - 🎙️ Voice Input for Creativity
-- Use your microphone to speak your character, genre, theme, or illustration style — no typing needed!
+  Use your microphone to speak your character, genre, theme, or illustration style — no typing needed!
 
 - 🎨 Scene-by-Scene Illustrations
-- Generate beautiful AI images for each scene using the DeepAI Text-to-Image API (optional).
+ Generate beautiful AI images for each scene using the DeepAI Text-to-Image API (optional).
 
 - 🔊 Multilingual Voice Narration
-- Stories are narrated using Google Text-to-Speech (gTTS) with support for multiple languages and voice speed options.
+ Stories are narrated using Google Text-to-Speech (gTTS) with support for multiple languages and voice speed options.
 
 - 📄 PDF Export
-- Convert your entire illustrated story into a print-ready PDF, complete with custom fonts and layout.
+ Convert your entire illustrated story into a print-ready PDF, complete with custom fonts and layout.
 
 - 📲 QR Code Sharing
-- Share your story via an auto-generated QR code that links to the downloadable version or cloud copy.
+ Share your story via an auto-generated QR code that links to the downloadable version or cloud copy.
 
 - 🌗 Responsive, Themed Interface
-- Enjoy a clean UI with Light/Dark mode toggle, background image support, and styled inputs for better usability.
+ Enjoy a clean UI with Light/Dark mode toggle, background image support, and styled inputs for better usability.
 
 ---
 
