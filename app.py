@@ -178,9 +178,9 @@ with st.expander("🎙️ Record & Assign Speech Input"):
 
 # --- TEXT FIELDS ---
 character = st.text_input("Character Description", st.session_state.get("character", "A robot who loves flowers"))
-genre = st.text_input("🎭 Genre", st.session_state.get("genre", "Fantasy"))
-theme = st.text_input("❤️ Theme", st.session_state.get("theme", "Friendship"))
-style = st.text_input("🖌️ Illustration Style", st.session_state.get("style", "Cartoon"))
+genre = st.text_input("🎭 Enter your own Genre (e.g., Fantasy, Sci-Fi, Mystery, Adventure, Comedy)", st.session_state.get("genre", "Fantasy"))
+theme = st.text_input("❤️ Enter your own Theme (e.g., Friendship, Curiosity, Courage, Love, Growth)", st.session_state.get("theme", "Friendship"))
+style = st.text_input("🖌️ Enter Illustration Style (e.g., Cartoon, Watercolor, Pixel Art, Realistic, Paper Cutout)", st.session_state.get("style", "Cartoon"))
 
 image_file = st.file_uploader("Upload character image (optional)", type=["jpg", "jpeg", "png"])
 if image_file:
