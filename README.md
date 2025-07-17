@@ -1,6 +1,6 @@
 # 📚 AI Reimagine Storytelling
 
-An AI-powered web app to generate illustrated stories for children with live narration, multilingual support, PDF export, and QR sharing — all from one screen.
+An AI-powered web app to generate illustrated stories with live narration, multilingual support, PDF export, and QR sharing — all from one screen.
 
 ---
 
