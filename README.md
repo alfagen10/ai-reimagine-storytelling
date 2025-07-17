@@ -4,8 +4,6 @@ An AI-powered web app to generate illustrated stories with live narration, multi
 
 ---
 
-![screenshot](https://via.placeholder.com/1200x600?text=AI+Reimagine+Storytelling+App+Preview)
-
 ---
 
 ## ✨ Key Features
